@@ -12,6 +12,6 @@ Cette mission a été réalisée en présence d'**Axel Even** et d'**Alex Rigueu
 
 * Créer une base de donnée MySQL (par défaut: **mission2gsb**).
 * Importer le script **gsb2017.sql** dans celle-ci.
-* Insérer un ligne dans la table **gestionnaire** afin de vous connecter en **Gestionnaire**.
+* Insérer une ligne dans la table **gestionnaire** afin de vous connecter en tant que Gestionnaire.
 * Importer le contenu de la mission sur votre serveur web (www/htdocs).
 * Éditer le fichier **class.pdogsb.php** dans **../modele/** afin de configurer les identifiants de connexion à votre base de donnée.
